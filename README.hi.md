@@ -1,15 +1,15 @@
-भंडार-नाम
+फ्लास्क-प्रीफेक्ट
 
-# भंडार का नाम
+# फ्लास्क प्रीफेक्ट
 
-> स्लगलाइन
+> Automating Your Workflows
 
 -   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+[प्रधान](https://prefect.io/) allows for workflow management with Python and Flask Framework
 
 ## 100 - परिचय
 
