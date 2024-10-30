@@ -1,17 +1,17 @@
-nom du référentiel
+flacon-préfet
 
-# Nom du référentiel
+# Flacon Préfet
 
-> Slugline
+> Automatisation de vos flux de travail
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
 
 **Résumé exécutif**
 
-Texte
+[Préfet](https://prefect.io/) allows for workflow management with Python and Flask Framework
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
